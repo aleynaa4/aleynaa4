@@ -1,1 +1,1 @@
-worket bot.js
+worker bot.js
